@@ -1,0 +1,13 @@
+{
+  "packages": [
+    "eza@latest",
+    "bat@latest",
+    "fzf@latest",
+    "zoxide@latest",
+    "jq@latest",
+    "yq@latest",
+    "teller@latest",
+    "gh@latest",
+    "thefuck@latest"
+  ]
+}
