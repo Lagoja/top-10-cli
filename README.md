@@ -20,7 +20,9 @@ This project includes:
 
 To try out the CLI's in a Cloud Dev Environment, click the link below:
 
-[![Open In Devbox.sh](https://www.jetify.com/img/devbox/open-in-devbox.svg)](https://devbox.sh/lagoja/top-10-cli)
+[![Open In Devbox.sh](https://www.jetify.com/img/devbox/open-in-devbox.svg)](https://devbox.sh/github.com/lagoja/top-10-cli)
+
+This link will create a cloud environment with all the packages above installed for you. You can add more packages to the environment using `devbox add`
 
 ## Try it locally with Devbox
 
